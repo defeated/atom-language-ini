@@ -1,5 +1,6 @@
 'fileTypes': [
   'ini'
+  'cfg'
 ]
 'name': 'Ini'
 'patterns': [
